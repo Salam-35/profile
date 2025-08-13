@@ -1,0 +1,103 @@
+{
+  "personal": {
+    "name": "Abdus Salam",
+    "title": "Software Engineer (AI) — Research Assistant",
+    "subtitle": "",
+    "bio": "Software Engineer-Artificial Intelligence with a strong background in research and machine learning. Previously a Research Assistant at Qatar University, I have experience developing AI solutions in healthcare and smart agriculture.",
+    "location": "Rajshahi, Bangladesh",
+    "phone": "+8801791373638",
+    "email": "salam35.ruet17@gmail.com",
+    "image": "/salam.jpg",
+    "cv": "https://drive.google.com/file/d/1KXA3b0M6dyRSoox6ti_GoCK1IIMnSG1O/view?usp=sharing",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/salam-35/",
+      "github": "https://github.com/Salam-35",
+      "scholar": "https://scholar.google.com/citations?user=JVu1U2EAAAAJ",
+      "researchgate": "https://researchgate.net/profile/Abdus-Salam-45"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm driven by innovation, continuous learning, and collaboration in research-oriented environments. My competitive programming background enhances my ability to solve complex problems efficiently.",
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "BioMedical",
+      "Image Processing",
+      "Smart Agriculture",
+      "Cyber Security",
+      "Signal Processing"
+    ]
+  },
+  "education": [
+    {
+      "degree": "MSc Engg. in Computer Science & Engineering",
+      "institution": "Rajshahi University of Engineering & Technology",
+      "period": "2023–Present",
+      "status": "Expected Completion: March 2025",
+      "cgpa": "3.50",
+      "logo": "/ruet.png",
+      "courses": [
+        "Machine Learning",
+        "Advanced Artificial Intelligence",
+        "Biometrics",
+        "Advanced Image Processing",
+        "Software Project Management"
+      ]
+    },
+    {
+      "degree": "BSc in Electrical & Computer Engineering",
+      "institution": "Rajshahi University of Engineering & Technology",
+      "period": "2018–2023",
+      "cgpa": "3.42",
+      "logo": "/ruet.png",
+      "courses": [
+        "Computer Programming",
+        "Software Engineering",
+        "Time Series Analysis",
+        "Computer Networks & Architecture",
+        "Neural Networks & Machine Learning"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer – Artificial Intelligence",
+      "company": "MyMedicalHub International Ltd.",
+      "location": "Dhaka, Bangladesh",
+      "period": "Aug 2024 - Present",
+      "responsibilities": [
+        "Designing and developing enterprise-grade AI applications for medical professionals.",
+        "Implementing machine learning models to streamline clinical workflows and data analysis."
+      ]
+    },
+    {
+      "title": "Research Assistant (Remote, Full-Time)",
+      "company": "Qatar University Machine Learning Group",
+      "location": "Doha, Qatar",
+      "period": "Aug 2023 - Dec 2024",
+      "responsibilities": [
+        "Developed deep learning models for medical image classification and abnormality detection.",
+        "Built ML solutions for smart agriculture, including crop disease prediction and yield optimization."
+      ]
+    }
+  ],
+  "skills": {
+    "programming": [
+      { "name": "Python", "level": "Highly Professional" },
+      { "name": "PyTorch", "level": "Professional" },
+      { "name": "C/C++", "level": "Professional" },
+      { "name": "HTML/CSS/JS", "level": "Professional" },
+      { "name": "PHP", "level": "Intermediate" }
+    ],
+    "tools": ["Microsoft Office Suite", "Git/GitHub", "Docker", "Linux/Unix"]
+  },
+  "achievements": [
+    "\"Excellent Researcher\" Award from Department of ECE, RUET",
+    "Ranked Specialist in Codeforces",
+    "Set multiple problems in Intra-RUET programming contests",
+    "Ranked 11th in CodeSmash-2018 programming contest",
+    "10th in RUET GyanJam 2018 programming contest"
+  ]
+}

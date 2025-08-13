@@ -1,0 +1,26 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Joined MyMedicalHub International as AI Engineer",
+      "date": "2024-08-01",
+      "description": "Started a new role as Software Engineer - Artificial Intelligence at MyMedicalHub International Ltd., focusing on enterprise-grade AI applications for medical professionals.",
+      "type": "career"
+    },
+    {
+      "id": 2,
+      "title": "New Research Paper Published in IEEE Access",
+      "date": "2024-06-15",
+      "description": "Our latest work on mulberry leaf disease detection using CNN-based smart Android application has been published in IEEE Access.",
+      "link": "https://doi.org/10.1109/ACCESS.2024.3407153",
+      "type": "publication"
+    },
+    {
+      "id": 3,
+      "title": "Continuing Research at Qatar University",
+      "date": "2024-01-01",
+      "description": "Continuing my research collaboration with Qatar University Machine Learning Group, working on medical image analysis and smart agriculture solutions.",
+      "type": "research"
+    }
+  ]
+}

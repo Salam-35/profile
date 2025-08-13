@@ -1,0 +1,126 @@
+{
+  "journals": [
+    {
+      "id": 1,
+      "title": "Mulberry Leaf Disease Detection Using CNN-based Smart Android Application",
+      "authors": "Abdus Salam, Mansura Naznine, Nusrat Jahan, Emama Nahid, Md Nahiduzzaman, Muhammad E. H. Chowdhury",
+      "journal": "IEEE Access",
+      "venue": "IEEE Access",
+      "year": 2024,
+      "doi": "10.1109/ACCESS.2024.3407153",
+      "type": "journal"
+    },
+    {
+      "id": 2,
+      "title": "Embedded system-based malaria detection from blood smear images using lightweight deep learning model",
+      "authors": "Abdus Salam, S. M. Nahid Hasan, Md. Jawadul Karim, Shamim Anower, Md Nahiduzzaman, Muhammad E. H. Chowdhury, M. Murugappan",
+      "journal": "International Journal of Imaging Systems and Technology",
+      "venue": "International Journal of Imaging Systems and Technology",
+      "year": 2024,
+      "doi": "10.1002/ima.23205",
+      "type": "journal"
+    },
+    {
+      "id": 3,
+      "title": "Multicentered Data Based Polyp Detection Using Colonoscopy Images Using DNN",
+      "authors": "Abdus Salam, Moajjem Hossain Chowdhury, M. Murugappan, Muhammad E. H. Chowdhury",
+      "journal": "International Journal of Imaging Systems and Technology",
+      "venue": "International Journal of Imaging Systems and Technology",
+      "year": 2025,
+      "doi": "10.1002/IMA.70123",
+      "type": "journal"
+    },
+    {
+      "id": 5,
+      "title": "Hybrid Neural Networks for Precise Hydronephrosis Classification Using Deep Learning",
+      "authors": "Abdus Salam, Mansura Naznine, Muhammad E. H. Chowdhury, Saidanvar Agzamkhodjaev, Ali Tekin, Santiago Vallasciani, Elias Ramírez-Velázquez, Tariq O. Abbas",
+      "journal": "Urology (Online ahead of print)",
+      "venue": "Urology",
+      "year": 2025,
+      "doi": "10.1016/j.urology.2025.08.005",
+      "type": "journal"
+    },
+    {
+      "id": 6,
+      "title": "Explainable Deep Learning Model for Automatic Mulberry Leaf Disease Classification",
+      "authors": "Md. Nahiduzzaman, Muhammad E. H. Chowdhury, Abdus Salam, Emama Nahid, Faruque Ahmed, Nasser Al-Emadi, Mohamed Arselene Ayari, Amith Khandakar, Julfikar Haider",
+      "journal": "Frontiers in Plant Science",
+      "venue": "Frontiers in Plant Science",
+      "year": 2023,
+      "doi": "10.3389/fpls.2023.1175515",
+      "type": "journal"
+    },
+    {
+      "id": 7,
+      "title": "An Ensemble Deep Learning Approach for Accurate Urinary Sediment Detection Using YOLOv9e and KD-YOLOX-ViT",
+      "authors": "Mansura Naznine, Abdus Salam, Muhammad Mohsin Khan, Sadia Farhana Nobi, Muhammad E. H. Chowdhury",
+      "journal": "IEEE Access",
+      "venue": "IEEE Access",
+      "year": 2025,
+      "doi": "10.1109/ACCESS.2025.3577959",
+      "type": "journal"
+    },
+    {
+      "id": 9,
+      "title": "Streamlining plant disease diagnosis with convolutional neural networks and edge devices",
+      "authors": "Md. Faysal Ahmed, Abdus Salam, Md Nahiduzzaman, Muhammad E. H. Chowdhury",
+      "journal": "Neural Computing and Applications",
+      "venue": "Neural Computing and Applications",
+      "year": 2024,
+      "doi": "10.1007/s00521-024-10152-y",
+      "type": "journal"
+    },
+    {
+      "id": 10,
+      "title": "Artificial Intelligence Tools in Pediatric Urology: A Comprehensive Review of Recent Advances",
+      "authors": "A. T. Chowdhury, Abdus Salam, Mansura Naznine, D. Abdalla, L. Erdman, M. E. H. Chowdhury, T. O. Abbas",
+      "journal": "Diagnostics",
+      "venue": "Diagnostics",
+      "year": 2024,
+      "doi": "10.3390/diagnostics14182059",
+      "type": "journal"
+    }
+  ],
+  "chapters": [
+    {
+      "id": 4,
+      "title": "Waste classification into plastics, industrial, domestic, and agriculture waste",
+      "authors": "Abdus Salam, Rifah Tasnia, Saad Bin Abul Kashem, Azad Ashraf, Ali Kunju, Molla Ehsanul Majid, Mazhar Hasan-Zia, Mohammad Nashbat, Amith Khandakar, Muhammad E. H. Chowdhury",
+      "venue": "Harnessing Automation and Machine Learning for Resource Recovery and Value Creation (Elsevier), Chapter 4",
+      "year": 2025,
+      "doi": "10.1016/B978-0-443-27374-2.00004-2",
+      "type": "chapter"
+    },
+    {
+      "id": 8,
+      "title": "Intelligent waste management: a comprehensive review of machine learning and deep learning applications in advanced recycling",
+      "authors": "Adiba Tabassum Chowdhury, Muhammad E. H. Chowdhury, Md. Sakib Bin Islam, Mehrin Newaz, Abdus Salam, Faizul Sayem, Mazhar Hasan-Mia, Mohammad Nashbat, Molla Ehsanul Majid, Amith Khandakar, Saad Bin Abul Kashem, Azad Ashraf",
+      "venue": "Harnessing Automation and Machine Learning for Resource Recovery and Value Creation (Elsevier), Chapter 18",
+      "year": 2025,
+      "doi": "10.1016/B978-0-443-27374-2.00018-2",
+      "type": "chapter"
+    }
+  ],
+  "conferences": [
+    {
+      "id": 13,
+      "title": "Efficient Brain Tumor Classification through Transfer Learning Models",
+      "authors": "Md. Yusuf Mehemud, Hafsa Binte Kibria, Abdus Salam",
+      "conference": "26th International Conference on Computer and Information Technology (ICCIT)",
+      "venue": "ICCIT 2023",
+      "year": 2023,
+      "doi": "10.1109/ICCIT60459.2023.10441144",
+      "type": "conference"
+    },
+    {
+      "id": 14,
+      "title": "Advanced Rice Leaf Disease Detection Using AgriRover: Enhancing Agricultural Monitoring and Crop Health Management",
+      "authors": "Oishi Jyoti, Abdus Salam, Ziharul Islam Rifath, Sazid Hasan, Md. Abu Ismail Siddique",
+      "conference": "2024 IEEE International Conference on Power, Electrical, Electronics and Industrial Applications (PEEIACON)",
+      "venue": "PEEIACON 2024",
+      "year": 2024,
+      "doi": "10.1109/PEEIACON63629.2024.10800437",
+      "type": "conference"
+    }
+  ]
+}
