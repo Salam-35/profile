@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "src": "https://picsum.photos/400/300?random=1",
+    "title": "Sunset Dreams",
+    "description": "A breathtaking sunset that paints the sky in warm hues of orange and pink, creating a magical moment that feels like a dream.",
+    "likes": 24
+  },
+  {
+    "id": 2,
+    "src": "https://picsum.photos/400/400?random=2",
+    "title": "Morning Coffee",
+    "description": "The perfect morning ritual captured in a cozy café setting, where steam rises from a warm cup and sunlight filters through the window.",
+    "likes": 18
+  },
+  {
+    "id": 3,
+    "src": "https://picsum.photos/400/500?random=3",
+    "title": "City Lights",
+    "description": "Urban beauty illuminated by thousands of twinkling lights, showcasing the vibrant energy and pulse of city life after dark.",
+    "likes": 32
+  },
+  {
+    "id": 4,
+    "src": "https://picsum.photos/400/350?random=4",
+    "title": "Ocean Breeze",
+    "description": "Waves gently kissing the shore while a soft breeze carries the salty scent of the sea, creating a moment of pure tranquility.",
+    "likes": 41
+  },
+  {
+    "id": 5,
+    "src": "https://picsum.photos/400/450?random=5",
+    "title": "Mountain View",
+    "description": "Majestic peaks reaching toward the clouds, standing as silent guardians over valleys filled with morning mist and wonder.",
+    "likes": 15
+  },
+  {
+    "id": 6,
+    "src": "https://picsum.photos/400/320?random=6",
+    "title": "Garden Party",
+    "description": "A delightful gathering among blooming flowers and green foliage, where nature provides the perfect backdrop for joy and laughter.",
+    "likes": 28
+  },
+  {
+    "id": 7,
+    "src": "https://picsum.photos/400/380?random=7",
+    "title": "Cozy Corner",
+    "description": "A warm, inviting space filled with soft textures and gentle light, perfect for quiet moments and peaceful reflection.",
+    "likes": 22
+  },
+  {
+    "id": 8,
+    "src": "https://picsum.photos/400/420?random=8",
+    "title": "Adventure Time",
+    "description": "The spirit of exploration captured in a single frame, inspiring wanderlust and the desire to discover new horizons.",
+    "likes": 35
+  },
+  {
+    "id": 9,
+    "src": "https://picsum.photos/400/420?random=9",
+    "title": "Forest Walk",
+    "description": "A peaceful journey through nature where sunlight filters through leaves and every step brings new discoveries.",
+    "likes": 29
+  },
+  {
+    "id": 10,
+    "src": "https://picsum.photos/400/420?random=10",
+    "title": "Starry Night",
+    "description": "The cosmos revealed in all its glory, with countless stars painting stories across the midnight canvas.",
+    "likes": 45
+  },
+  {
+    "id": 11,
+    "src": "https://picsum.photos/400/420?random=11",
+    "title": "Spring Bloom",
+    "description": "Nature awakening from winter slumber, bursting with fresh colors and the promise of new beginnings.",
+    "likes": 33
+  },
+  {
+    "id": 12,
+    "src": "https://picsum.photos/400/420?random=12",
+    "title": "Golden Hour",
+    "description": "That magical time when everything glows with warmth and the world feels touched by golden light.",
+    "likes": 38
+  }
+]

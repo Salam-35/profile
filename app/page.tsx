@@ -8,6 +8,7 @@ import { Skills } from "@/components/skills"
 import { Publications } from "@/components/publications"
 import { RecentNews } from "@/components/recent-news"
 import { Contact } from "@/components/contact"
+import PhotoGallery from "@/components/gallery"
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <RecentNews />
         <Education />
         <Experience />
+        {/* <PhotoGallery /> */}
         {/* <Skills /> */}
         <Publications />
         

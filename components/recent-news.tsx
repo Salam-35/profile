@@ -41,9 +41,11 @@ export function RecentNews() {
 
   const sorted = useMemo(
     () =>
-      [...data].sort(
-        (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-      ),
+      [...data]
+        .filter((item) => item.type !== "important")
+        .sort(
+          (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+        ),
     [data]
   )
 

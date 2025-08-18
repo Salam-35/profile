@@ -355,7 +355,12 @@ export default function HeroSection() {
       <nav className="lg:hidden fixed top-0 w-full z-50 bg-white/95 backdrop-blur-sm shadow-lg">
         <div className="flex justify-between items-center px-4 py-3">
           <div className="text-xl font-bold bg-gradient-to-r from-slate-800 via-blue-600 to-purple-600 bg-clip-text text-transparent">
-            {name}
+            <TypingEffect
+              strings={[name, "Software Engineer", "Researcher"]}
+              typeSpeed={80}
+              backSpeed={40}
+              backDelay={900}
+            />
           </div>
 
           <Button variant="ghost" size="icon" onClick={() => setIsOpen(!isOpen)}>

@@ -21,6 +21,13 @@
       "date": "2024-01-01",
       "description": "Continuing my research collaboration with Qatar University Machine Learning Group, working on medical image analysis and smart agriculture solutions.",
       "type": "research"
+    },
+    {
+      "id": 4,
+      "title": "Important Notice",
+      "date": "2024-08-18",
+      "description": "This is an important notice. i would like to draw your attention on: ",
+      "type": "important"
     }
   ]
 }
