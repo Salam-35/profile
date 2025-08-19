@@ -6,6 +6,8 @@ export async function POST(request: NextRequest) {
   const body = await request.json();
   const { username, password } = body;
 
+  console.warn('--- WARNING: Logging sensitive information. Remove before deploying to production. ---');
+
   // --- Start Debugging Logs ---
   console.log('--- Login Attempt ---');
   console.log('Received username:', username);
@@ -33,6 +35,14 @@ export async function POST(request: NextRequest) {
     return response;
   } else {
     console.log('Credentials do NOT match.');
-    return NextResponse.json({ message: 'Invalid credentials' }, { status: 401 });
-  }
+    const passwordMatch = password === process.env.ADMIN_PASSWORD;
+    return NextResponse.json({
+           message: 'Invalid credentials',
+           debug: {
+               receivedUsername: username,
+               expectedUsername: process.env.ADMIN_USERNAME,
+               receivedPassword: password,
+               expectedPassword: process.env.ADMIN_PASSWORD
+          }
+     }, { status: 401 });  }
 }

@@ -28,6 +28,14 @@ export default function LoginPage() {
     } else {
       const data = await res.json();
       setError(data.message || 'Invalid credentials');
+      if (data.debug) {
+        console.log('--- Debug Info ---');
+        console.log('Received Username:', data.debug.receivedUsername);
+        console.log('Expected Username (from server):', data.debug.expectedUsername);
+        console.log('Password Match:', data.debug.passwordMatch);
+        console.log('Expected Password: ', data.debug.expectedPassword)
+        console.log('Received Password: ',data.debug.receivedPassword)
+      }
     }
   };
 
