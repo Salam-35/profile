@@ -40,9 +40,7 @@ export async function POST(request: NextRequest) {
            message: 'Invalid credentials',
            debug: {
                receivedUsername: username,
-               expectedUsername: process.env.ADMIN_USERNAME,
                receivedPassword: password,
-               expectedPassword: process.env.ADMIN_PASSWORD
           }
      }, { status: 401 });  }
 }
